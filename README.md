@@ -5,3 +5,5 @@ Edgequest is a rougelike inspired, top down game. The game takes place in a infi
 This is the launcher for edgequest which will fetch the latest version of the game from the internet for you. Simply download the latest release of the launcher and run it.
 
 [Download launcher v0.1 here](https://github.com/keco185/EdgeQuestLauncher/releases/download/v0.1/edgequest.jar)
+
+**Note: There is currently a bug which prevents Edgequest from running on some multi-monitor setups**
